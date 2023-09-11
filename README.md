@@ -60,6 +60,6 @@ I welcome contributions from the community! If you have insights, code improveme
 
 ## License
 
-You are encouraged to use, modify, and distribute the code and resources within this repository according to the terms of the license.
+You are encouraged to use, modify, and distribute the code and resources.
 
 Thank you for joining me on this journey to unlock the potential of textual data through natural language processing. Happy coding!
