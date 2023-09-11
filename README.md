@@ -22,15 +22,44 @@ If you're eager to harness the power of unstructured text data, this repository 
 
 ## Repository Contents
 
-This repository contains code samples, tutorials, and resources related to textual data analysis, NLP techniques, and practical applications. Feel free to explore the provided materials and engage with the community to expand your knowledge in this exciting field.
+In this repository, you will find a collection of Jupyter Notebook recipes and code examples that cover a wide range of textual data analysis techniques. These recipes are designed to help you understand, preprocess, and analyze textual data effectively. Below is a list of the included recipes:
+
+1. `Carrying Out Sentiment Analysis.ipynb`
+2. `HTML_TO_TEXT.ipynb`
+3. `Classifying Text.ipynb`
+4. `Lemmatizing.ipynb`
+5. `Converting Text to Features Using a Count Vectorizer.ipynb`
+6. `Lowercasing_Data.ipynb`
+7. `Converting Text to Features Using TF-IDF.ipynb`
+8. `One-Hot Encoding.ipynb`
+9. `Co-Occurrence Matrix.ipynb`
+10. `PDF_Extractor.ipynb`
+11. `Correcting Spelling.ipynb`
+12. `Dealing with Emojis and Emoticons.ipynb`
+13. `Removing Punctuation.ipynb`
+14. `Disambiguating Text.ipynb`
+15. `Removing Stop Words.ipynb`
+16. `DOCX_TEXT_EXTRACTOR.ipynb`
+17. `Scraping.ipynb`
+18. `Exploring Data.ipynb`
+19. `Extracting Noun Phrases.ipynb`
+20. `Standardizing Text.ipynb`
+21. `Extracting Topics from Text.ipynb`
+22. `Stemming.ipynb`
+23. `Finding Similarity Between Texts.ipynb`
+24. `Tagging Part of Speech.ipynb`
+25. `Generating n-grams.ipynb`
+26. `Hash Vectorizing.ipynb`
+27. `Twitter Scrapper.ipynb`
+
+These recipes cover various aspects of textual data analysis, from data cleaning and preprocessing to advanced natural language processing techniques. Whether you're a beginner looking to learn the basics or an experienced data scientist seeking to refine your skills, these resources will prove valuable in your journey to harness the power of textual data.
 
 ## How to Contribute
 
-We welcome contributions from the community! If you have insights, code improvements, or new resources related to textual data analysis and NLP, please feel free to open an issue or submit a pull request. Together, we can further advance our understanding and utilization of unstructured data.
+I welcome contributions from the community! If you have insights, code improvements, or new resources related to textual data analysis and NLP, please feel free to open an issue or submit a pull request. Together, we can further advance our understanding and utilization of unstructured data.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are encouraged to use, modify, and distribute the code and resources within this repository according to the terms of the license.
+You are encouraged to use, modify, and distribute the code and resources within this repository according to the terms of the license.
 
-Thank you for joining us on this journey to unlock the potential of textual data through natural language processing. Happy coding!
-
+Thank you for joining me on this journey to unlock the potential of textual data through natural language processing. Happy coding!
